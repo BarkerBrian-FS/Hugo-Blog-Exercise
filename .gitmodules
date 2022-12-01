@@ -1,0 +1,3 @@
+[submodule "WDV463 Deploy/BarkerBrian-Hugo/themes/ananke"]
+	path = WDV463 Deploy/BarkerBrian-Hugo/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
